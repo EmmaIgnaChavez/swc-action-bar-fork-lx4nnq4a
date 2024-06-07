@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/emmaignachavez.swc-action-bar-fork-lx4nnq4a",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve GjAZc5X0EHg4JyfMjbQA --open"
+  },
+  "dependencies": {
+    "lit-element": "^3.0.0"
+  }
+}
